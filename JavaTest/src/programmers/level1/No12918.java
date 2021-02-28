@@ -52,7 +52,7 @@ public class No12918 {
 	
 	
 	public static void main(String[] args) {
-		System.out.println(new No12918().solution("a123"));
+		System.out.println(new No12918(). solution("a123"));
 		System.out.println(new No12918().solution2("a123"));
 		System.out.println(new No12918().solution3("a123"));
 	}
