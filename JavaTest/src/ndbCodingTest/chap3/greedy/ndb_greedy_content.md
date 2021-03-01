@@ -1,10 +1,8 @@
 
 
-## Programmers Level1
+## 동빈나 코딩테스트 Greedy
 
 ### 연습문제
 
-- [no12906](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12906.java>) 같은 숫자는 싫어
-- [no12922](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12922.java>) 수박수박수박수박수박수?
-- [no12912](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12922.java>) 두 정수의 합
-
+- [no3_1](<https://github.com/duoh20/notebook/blob/master/src/ndbCodingTest/chap3/greedy/no3_1.java >) 거스름돈
+- [no3_2](<https://github.com/duoh20/notebook/blob/master/src/ndbCodingTest/chap3/greedy/no3_2.java >) 큰수의 법칙
