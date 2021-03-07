@@ -9,4 +9,5 @@
 
 ### ndbCodingTest
 - [greedy](./JavaTest/src/ndbCodingTest/chap3/greedy/ndb_greedy_content.md)
+- [Implementation](./JavaTest/src/ndbCodingTest/chap3/greedy/ndb_greedy_content.md)
 

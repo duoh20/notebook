@@ -15,3 +15,4 @@
 
 ### Implementation
 - [no3_1](<https://github.com/duoh20/notebook/blob/master/src/ndbCodingTest/chap4/impl/no4_1.java >) 상하좌우
+- [no4_1](<https://github.com/duoh20/notebook/blob/master/src/ndbCodingTest/chap4/impl/no4_2.java >) 시각
