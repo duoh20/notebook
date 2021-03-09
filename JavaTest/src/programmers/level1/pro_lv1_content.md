@@ -10,4 +10,5 @@
 - [no12919](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12919.java>) 서울에서 김서방 찾기
 - [no12922](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12922.java>) 수박수박수박수박수박수?
 - [no12926](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12926.java>) 시저 암호
+- [no42840](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No42840.java>) 모의고사
 - [no68644](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No68644.java>) 두 개 뽑아서 더하기

@@ -48,4 +48,5 @@ public class No12926 {
 	    
 	    return result;
 	}
+
 }
