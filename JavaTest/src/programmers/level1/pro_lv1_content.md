@@ -4,6 +4,7 @@
 
 ### 연습문제
 
+- [no12932](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12932.java>) 자연수 뒤집어 배열로 만들기
 - [no1845](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No1845.java>) 포켓몬
 - [no12906](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12906.java>) 같은 숫자는 싫어
 - [no12912](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12912.java>) 두 정수의 합
