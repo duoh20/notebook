@@ -14,3 +14,4 @@
 - [no12926](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12926.java>) 시저 암호
 - [no42840](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No42840.java>) 모의고사
 - [no68644](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No12948.java>) 핸드폰 번호 가리기
+- [no68935](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No68935.java>) 3진법 뒤집기
