@@ -19,3 +19,4 @@
 - [no68935](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No68935.java>) 3진법 뒤집기
 - [no42576](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No42576.java>) 완주하지 못한 선수
 - [no86051](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No86051.java>) 없는 숫자 더하기
+- [no86051](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/programmers/level1/No67256.java>) 키패드 누르기
