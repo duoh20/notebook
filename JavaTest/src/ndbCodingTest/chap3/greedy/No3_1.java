@@ -1,8 +1,6 @@
 package ndbCodingTest.chap3.greedy;
 
-import programmers.level1.No12922;
-
-public class no3_1 {
+public class No3_1 {
 
 	/* 거스름돈 
 	 * 카운터에 500원, 50원, 10원 동전이 무한히 존재할 때, 
@@ -48,7 +46,7 @@ public class no3_1 {
 	}
 	
 	public static void main(String[] args) {
-		no3_1 sol = new no3_1();
+		No3_1 sol = new No3_1();
 		
 		System.out.println("solution1 : " + sol.solution(1870));
 		System.out.println("solution2 : " + sol.solution2(1870));

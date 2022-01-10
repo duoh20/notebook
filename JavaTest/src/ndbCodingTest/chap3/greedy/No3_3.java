@@ -1,7 +1,7 @@
 package ndbCodingTest.chap3.greedy;
 import java.util.*;
 
-public class no3_3 {
+public class No3_3 {
 	
 	/* 숫자 카드 게임
 	 * 여러 개의 카드 중에서 가장 높은 숫자가 쓰인 카드 한 장을 뽑는 게임이다

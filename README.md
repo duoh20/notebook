@@ -8,10 +8,10 @@
   
 
 ### ndbCodingTest
-- [greedy](./JavaTest/src/ndbCodingTest/chap3/greedy/ndb_greedy_content.md)
-- [Implementation](./JavaTest/src/ndbCodingTest/chap3/greedy/ndb_greedy_content.md)
+- [greedy](JavaTest/src/ndbCodingTest/ndb_contents.md)
+- [Implementation](JavaTest/src/ndbCodingTest/ndb_contents.md)
 
 
 
 ### leetcode
-- [String](./JavaTest/src/leetCode/lc_string.md)
+- [String](./JavaTest/src/leetCode/lc_contents.md)

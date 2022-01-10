@@ -2,7 +2,7 @@ package ndbCodingTest.chap3.greedy;
 
 import java.util.*;
 
-public class no3_2 {
+public class No3_2 {
 	
 	/* 큰 수의 법칙
 	 * 조건 담은 문자열과 임의의 정수를 담은 문자열 있다.

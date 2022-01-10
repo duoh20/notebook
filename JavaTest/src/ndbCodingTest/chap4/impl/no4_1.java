@@ -2,7 +2,7 @@ package ndbCodingTest.chap4.impl;
 
 import java.util.*;
 
-public class No4_1 {
+public class no4_1 {
 	
 	/* 상하좌우
 	 * N * N 크기의 정사각형 공간에 서 있다. 각 정사각형의 크기는 1 * 1이다.
