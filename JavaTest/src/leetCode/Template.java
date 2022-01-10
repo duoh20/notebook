@@ -36,6 +36,5 @@ public class Template {
 
         공간복잡도
         대상(Source): 메모리 사용량은 O(N)
-                     Set<String> set = new HashSet()에서 for를 한 번 실행 시킴
     */
 }

@@ -87,9 +87,19 @@ public class LicenseKeyFormatting {
     /*
         시간복잡도
         대상(Source): 시간 복잡도는 O(N)
+                     newStr에 대해 for문 한 번 실행
 
         공간복잡도
         대상(Source): 메모리 사용량은 O(N)
-                     Set<String> set = new HashSet()에서 for를 한 번 실행 시킴
+                     StringBuilder에서 for문 한 번 실행
+    */
+
+    /*[참고]
+        O(1)     : 스택, 큐, MAP
+        O(n)     : for문, 데이터를 한 번씩 다 호출하기 때문(가장 많음)
+        O(log N) : sort, priorityQueue, binarySearchTree, Tree
+        O(Klog N): k번 만큼 소팅하는 경우
+        O(n^2)   : 이중 for문
+        O(m*n)   : 이중 for문이면서 n이 다른 경우(bfs, dfs)
     */
 }
