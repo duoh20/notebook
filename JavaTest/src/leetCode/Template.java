@@ -9,7 +9,7 @@ public class Template {
         return null;
     }
 
-    //다른 답
+    //풀이
     public Object solution(Object... params) {
         return null;
     }
