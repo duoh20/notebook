@@ -16,4 +16,5 @@
 ### Sorting & Searching
 - [MoveZero](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/MoveZero.java>) 제로 이동
 - [KthLargestElementInAnArray](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/KthLargestElementInAnArray.java>) k번째 제일 큰 원소
-- [MeetingRoom](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/MeetingRoom.java>) 미팅룸1
+- [MeetingRoom1](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/MeetingRoom.java>) 미팅룸1
+- [MeetingRoom2](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/MeetingRoom2.java>) 미팅룸2

@@ -2,9 +2,9 @@ package leetCode.sortingSearching;
 
 import java.util.*;
 
-public class MeetingRoom {
+public class MeetingRoom1 {
 
-    /* 미팅룸(MeetingRoom) */
+    /* 미팅룸(MeetingRoom1) */
     //미팅 시간(intervals[i] = [start, end]) 배열이 주어졌을 때,
     //intervals 배열을 이용해 사람들이 모든 회의에 참석할 수 있는 지 boolean을 리턴하라.
 
@@ -40,7 +40,7 @@ public class MeetingRoom {
         int[][] intervals = {{5,10},{16,20},{0,30}};
 
         //Call
-        MeetingRoom mr = new MeetingRoom();
+        MeetingRoom1 mr = new MeetingRoom1();
         Object solution = mr.solution(intervals);
 
         //Output
