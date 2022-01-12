@@ -28,3 +28,4 @@
 - [DailyTemperature](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/DailyTemperature.java>) 일일온도
 - [MaxiumSubarray](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/MaxiumSubarray.java>) 서브어레이 최대값(Maximum Subarray)
 - [GroupAnagrams](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/GroupAnagrams.java>) 그룹 아나그램
+- [TrappingRainWater](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/TrappingRainWater.java>) 빗물 잡기
