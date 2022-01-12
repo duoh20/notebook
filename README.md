@@ -14,4 +14,6 @@
 
 
 ### leetcode
-- [String](./JavaTest/src/leetCode/lc_contents.md)
+- [String](./JavaTest/src/leetCode/lc_contents.md#string)
+- [Sorting & Searching](./JavaTest/src/leetCode/lc_contents.md#sorting--searching)
+- [Array](./JavaTest/src/leetCode/lc_contents.md#array)

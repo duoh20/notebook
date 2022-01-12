@@ -1,4 +1,4 @@
-package leetCode.sortingSearching;
+package leetCode.array;
 
 import java.util.*;
 

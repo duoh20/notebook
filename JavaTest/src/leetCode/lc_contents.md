@@ -24,5 +24,6 @@
 <br>
 
 ### Array
-- [TwoSum](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/TwoSum.java>) 두 개 합
-- [DailyTemperature](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/DailyTemperature.java>) 일일온도
+- [TwoSum](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/TwoSum.java>) 두 개 합
+- [DailyTemperature](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/DailyTemperature.java>) 일일온도
+- [MaxiumSubarray](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/MaxiumSubarray.java>) 서브어레이 최대값(Maximum Subarray)
