@@ -34,4 +34,5 @@
 <br>
 
 ### Queue & Stack
-- [BaseballGame](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/BaseballGame.java>) 야구 게임
+- [BaseballGame](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/BaseballGame.java>) 야구 게임
+- [ValidParentheses](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/ValidParentheses.java>) 유효한 괄호
