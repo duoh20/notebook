@@ -1,11 +1,9 @@
 package leetCode.graph;
 
-import java.util.*;
-
 //https://leetcode.com/problems/number-of-islands/
-public class NumberOfIsland {
+public class NumberOfIslandDfs {
 
-    /* 섬의 수(NumberOfIsland) */
+    /* 섬의 수(NumberOfIslandDfs) */
     //m*n binary grid가 주어질 때, cell의 1은 땅이고 0은 물이다.
     //섬은 수직 또는 수평으로 인접하는 땅(1)을 연결하여 형성되며,
     //섬은 grid의 네 모서리가 모두 물로 둘러 쌓여있다고 가정할 수 있다.
@@ -113,7 +111,7 @@ public class NumberOfIsland {
                          {'1','1','0','0','0'},
                          {'0','0','0','0','1'}};
         //Call
-        NumberOfIsland noi = new NumberOfIsland();
+        NumberOfIslandDfs noi = new NumberOfIslandDfs();
         int solution = noi.solution(grid);
 
         //Output

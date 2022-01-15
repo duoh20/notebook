@@ -43,4 +43,5 @@
 <br>
 
 ### Graph(dfs&bfs)
-- [NumberOfGame](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/NumberOfGame.java>) 섬의 수
+- [NumberOfGame_DFS](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/NumberOfGameDfs.java>) 섬의 수(DFS)
+- [NumberOfGame_BFS](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/NumberOfGameBfs.java>) 섬의 수(BFS)
