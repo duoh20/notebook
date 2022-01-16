@@ -17,5 +17,6 @@
 - [String](./JavaTest/src/leetCode/lc_contents.md#string)
 - [Sorting & Searching](./JavaTest/src/leetCode/lc_contents.md#sorting--searching)
 - [Array](./JavaTest/src/leetCode/lc_contents.md#array)
+- [LinkedList](./JavaTest/src/leetCode/lc_contents.md#linkedlist)
 - [Queue & Stack](./JavaTest/src/leetCode/lc_contents.md#queue--stack)
-- [Graph(dfs&bfs)](./JavaTest/src/leetCode/lc_contents.md#graphdfs--bfs)
+- [Graph(dfs&bfs)](./JavaTest/src/leetCode/lc_contents.md#graphdfsbfs)

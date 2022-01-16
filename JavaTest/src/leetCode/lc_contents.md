@@ -14,7 +14,7 @@
 <br>
 
 ### Sorting & Searching
-- [MoveZero](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/MoveZero.java>) 제로 이동
+- [MoveZeroes](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/MoveZeroes.java>) 제로 이동
 - [KthLargestElementInAnArray](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/KthLargestElementInAnArray.java>) k번째 제일 큰 원소
 - [MeetingRoom1](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/MeetingRoom.java>) 미팅룸1
 - [MeetingRoom2](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/sortingSearching/MeetingRoom2.java>) 미팅룸2
@@ -30,6 +30,10 @@
 - [GroupAnagrams](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/GroupAnagrams.java>) 그룹 아나그램
 - [TrappingRainWater](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/array/TrappingRainWater.java>) 빗물 잡기
 
+<br>
+
+### LinkedList
+- [AddTwoNumbers](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/linkedList/AddTwoNumbers.java>) 두 수 합하기
 
 <br>
 
@@ -37,7 +41,6 @@
 - [BaseballGame](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/BaseballGame.java>) 야구 게임
 - [ValidParentheses](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/ValidParentheses.java>) 유효한 괄호
 - [BinaryTreeLevelOrderTraversal](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/BinaryTreeLevelOrderTraversal.java>) 이진 트리의 Level order traversal
-
 
 
 <br>
