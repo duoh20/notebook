@@ -34,6 +34,7 @@
 
 ### LinkedList
 - [AddTwoNumbers](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/linkedList/AddTwoNumbers.java>) 두 수 합하기
+- [MergeKSortedLists](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/linkedList/MergeKSortedLists.java>) K개의 정렬된 리스트 병합
 
 <br>
 
@@ -46,5 +47,5 @@
 <br>
 
 ### Graph(dfs&bfs)
-- [NumberOfGame_DFS](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/NumberOfGameDfs.java>) 섬의 수(DFS)
-- [NumberOfGame_BFS](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/queueStack/NumberOfGameBfs.java>) 섬의 수(BFS)
+- [NumberOfGame_DFS](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/graph/NumberOfGameDfs.java>) 섬의 수(DFS)
+- [NumberOfGame_BFS](<https://github.com/duoh20/notebook/blob/master/JavaTest/src/leetCode/graph/NumberOfGameBfs.java>) 섬의 수(BFS)
