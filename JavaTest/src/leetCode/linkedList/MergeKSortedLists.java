@@ -87,7 +87,7 @@ public class MergeKSortedLists {
     /*** 시간 복잡도와 공간 복잡도 계산 ***/
     /*
         시간복잡도
-        대상(Source): 시간 복잡도는 O(NlogK)
+        대상(Source): 시간 복잡도는 O(N)
 
         공간복잡도
         대상(Source): 메모리 사용량은 O(N)
